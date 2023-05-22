@@ -144,7 +144,7 @@ li > a {
 
   /* Div separtion(Black-info) */
   .introduction{
-    background-color: #15181fdc;
+    background-color: #013030;
     color: #ffffff;
     font-family: 'Poppins', sans-serif;
     padding: 1% 7% 5% 5%;
@@ -162,6 +162,7 @@ li > a {
     align-items: center;
     gap: 16px 50px;
     max-width: 1400px;
+    background-color: #e8ffff;
   }
   .gallery img {
     width: 100%;
@@ -230,8 +231,10 @@ li > a {
   border-radius: 5px;
   padding: 10px;
   font-family: 'Exo 2';
+  font-size: larger;
 
-  background-color: #7c747446;
+
+  background-color: #b4f1f1;
 }
 
   .gallery::after {
@@ -248,7 +251,7 @@ li > a {
 
 /* Footer section */
   footer {
-    background: #52525285;
+    background: #013030;
     display: flex;
     width: 100%;
     height: 15%;
@@ -261,7 +264,7 @@ li > a {
   /* background-color: red; */
 }
 .footer-info a{
-  color: #000;
+  color: #e8ffff;
   /* background-color: green; */
 }
 .end{
@@ -278,6 +281,7 @@ li > a {
   gap: 10px;
   align-items: center;
   display: flex;
+  color:#e8ffff;
 }
 .handle img{
   width: 20px;
